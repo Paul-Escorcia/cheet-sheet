@@ -1,0 +1,33 @@
+
+body{
+    background-color: lightskyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h2{
+    color: darkblue;
+}
+
+thead{
+    background-color: dodgerblue;
+    color: white
+}
+
+table{
+    border: 2px dotted darkblue;
+    width: 700px;
+    margin: 0 auto;
+}
+
+td{
+    border-top: 1px solid darkblue;
+}
+
+span{
+    background-color: white;
+    font-family: monospace;
+}
